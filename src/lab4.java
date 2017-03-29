@@ -15,7 +15,7 @@ String cale ="c://temp//tt//fisier.txt";
 int delacat=cale.indexOf(".");
 String extensie = cale.substring(delacat);
         System.out.println(extensie);
-
+// de citit doare despre metode si string
 
     }
 }
